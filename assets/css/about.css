@@ -3,7 +3,7 @@
 }
 
 h3 {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 28pt;
 }
 
@@ -24,7 +24,7 @@ a {
 }
 
 .footer {
-  background-color: white;
+  background-color: rgba(49, 49, 49, 0);
   height: 50px;
   flex-shrink: 0;
   display: flex;
@@ -37,7 +37,7 @@ a {
 
 .fa {
   margin: 18px 5px 16px 5px;
-  color: #000;
+  color: rgb(189, 189, 189);
   width: 40px;
 }
 
